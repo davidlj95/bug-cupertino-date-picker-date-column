@@ -33,6 +33,9 @@ disabled for that date if you select it.
 ## Reproduce
 Just run the app! (`flutter run`)
 
+## Fix
+Can be fixed with https://github.com/flutter/flutter/pull/72933
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
